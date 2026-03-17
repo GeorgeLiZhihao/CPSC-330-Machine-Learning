@@ -1,5 +1,3 @@
-# CPSC-330-Machine-Learning
-
 # CPSC 330 – Applied Machine Learning
 
 > This repository is part of my machine learning and data science portfolio, alongside projects in optimization and statistical modeling.
